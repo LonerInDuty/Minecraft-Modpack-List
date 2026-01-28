@@ -31,7 +31,7 @@
 | **[Material Energy 5](https://www.curseforge.com/minecraft/modpacks/material-energy-5-entity)** | 1.12.2 |
 | **[Liminal Industries](https://www.curseforge.com/minecraft/modpacks/liminal-industries)** | 1.20.1 |
 
-## **FOR BEGINNERS:** It seems the consensus is that **Cuboid Outpost Luxury** is the best modpack for beginners, and that it's pretty short at that, followed by **CABIN - Create Above and Beyond In Newer** .
+## **FOR BEGINNERS:** It seems the consensus is that **Cuboid Outpost Luxury** is the best modpack for beginners, and that it's pretty short at that, followed by **CABIN - Create Above and Beyond In Newer**.
 
 ## But all of the above are said to be short, beginner-friendly, and even story-driven!
 
@@ -46,7 +46,7 @@
 | Modpack | Version | Playtime |
 |---------|---------|----------|
 | **[Blightfall](https://www.technicpack.net/modpack/blightfall.592618)** | 1.7.10 | 200+ hours |
-| **[Regrowth](https://www.technicpack.net/modpack/regrowth-an-hqm-pack-rld.1025833)** | 1.7.10 | ??? |
+| **[Regrowth](https://www.curseforge.com/minecraft/modpacks/regrowth-an-hqm-pack)** | 1.7.10 | ??? |
 
 These are the ones I've seen the most. I've heard Blightfall takes 200+ hours, but couldn't find anything on Regrowth.
 
@@ -81,4 +81,5 @@ These are the ones I've seen the most. I've heard Blightfall takes 200+ hours, b
 
 - **Missing playtime estimates** - The main reason I made this
 - More modpack recommendations for any category
+
 - Corrections or better descriptions to anything I got wrong
