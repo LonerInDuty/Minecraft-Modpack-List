@@ -1,11 +1,10 @@
-### How to setup Simply Magic (Distant Horizons, Java 25)
+### How to setup Simply Magic (With Sodium [Angelica] and Distant Horizons, Java 25)
 
 #### As a general tip, ALWAYS check the [Optimization Guide](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide). It lists the best Java and Java settings for each version, the best mods for each version, AND how to optimize specific modpacks. It's the holy grail of optimization.
 
 * Download and Install [Adoptium Java 8, 21 and 25](https://adoptium.net/temurin/releases).
 
-* [Download my package for Simply Magic](https://files.catbox.moe/eklf7l.zip), import it into Prism, then run it.
-A window will pop up.
+* [Download my package for Simply Magic](https://files.catbox.moe/f8rf0x.zip), import it into Prism (feel free to rename it), then run it. A window will pop up.
 
 * At the very top, click Find and go to **C:\Program Files\Eclipse Adoptium\jdk-25.X.X.X-hotspot\bin**
 
@@ -22,4 +21,11 @@ A window will pop up.
 
 * Run the game. You're done.
 
+### If you disable Distant Horizons, turn the vanilla clouds back on in the settings.
+
 ### Some mods don't work with Java 25, which is why I recommend having Java 21 installed, just in case.
+
+## BONUS: You can change skins and capes.
+* Go to Simply Magic's folder, then the cachedImages folder.
+* Place the image file of a skin and/or cape in their respective folders, **making sure to rename BOTH files to be your in-game name. For example, Notch.png**
+* Don't place them in the uuid folders.
