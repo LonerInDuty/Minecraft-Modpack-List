@@ -1,14 +1,14 @@
-## I want to follow in the footsteps of u/gurugeek42's amazing [List of short, story-driven modpacks](https://old.reddit.com/r/feedthebeast/comments/nhphd7/list_of_short_storydriven_modpacks/).
+### I want to follow in the footsteps of u/gurugeek42's amazing [List of short, story-driven modpacks](https://old.reddit.com/r/feedthebeast/comments/nhphd7/list_of_short_storydriven_modpacks/).
 
-## Because 100+ hours for a Minecraft modpack is too long.
+### Because 100+ hours for a Minecraft modpack is too long.
 
-## Help me catalogue the playtime of these modpacks!
+### Help me catalogue the playtime of these modpacks!
 
-## **[Here's the best optimization guide for Minecraft.](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide)**
+### **[Here's the best optimization guide for Minecraft.](https://github.com/Polytetrafluoroethylene-PTFE/MC-Optimization-Guide)**
 
 ---
 
-## 🎮 Adventure/Sandbox Packs (Not meant to be finished)
+### 🎮 Adventure/Sandbox Packs (Not meant to be finished)
 
 | Modpack | Version | Description |
 |---------|---------|-------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌱 Short, Beginner-Friendly Modpacks (Tech-focused, but story-driven)
+### 🌱 Short, Beginner-Friendly Modpacks (Tech-focused, but story-driven)
 
 | Modpack | Version |
 |---------|---------|
@@ -31,17 +31,16 @@
 | **[Material Energy 5](https://www.curseforge.com/minecraft/modpacks/material-energy-5-entity)** | 1.12.2 |
 | **[Liminal Industries](https://www.curseforge.com/minecraft/modpacks/liminal-industries)** | 1.20.1 |
 
-## **FOR BEGINNERS:** It seems the consensus is that **Cuboid Outpost Luxury** is the best modpack for beginners, and that it's pretty short at that, followed by **CABIN - Create Above and Beyond In Newer**.
+### **FOR BEGINNERS:** It seems the consensus is that **Cuboid Outpost Luxury** is the best modpack for beginners (just remember to add Embeddium to it), followed by **CABIN - Create Above and Beyond In Newer**.
 
-## But all of the above are said to be short, beginner-friendly, and even story-driven!
-
-## Just remember to add Embeddium to Cuboid.
+#### BONUS: Simply Magic, a 1.7.10 tutorial modpack for the best magic mods, like Thaumcraft 4, Witchery, Ars Magica and more! (Not sure if it's short, though. Any insight would be welcome!)
+I made a package for it that lets you use it with Java 25 and Distant Horizons (yes, on 1.7.10). Find it here: [Simply Magic Updated.md](https://github.com/LonerInDuty/Minecraft-Modpack-List/blob/master/Simply%20Magic.md)
 
 [I personally have strong feelings about FTB Academy (1.12.2) and wouldn't recommend it.](https://old.reddit.com/r/feedthebeast/comments/1qnrmzf/my_review_of_ftb_academy_as_a_brand_new_player_to/)
 
 ---
 
-## 📖 Story-Focused Tech Modpacks
+### 📖 Story-Focused Tech Modpacks
 
 | Modpack | Version | Playtime |
 |---------|---------|----------|
@@ -52,7 +51,7 @@ These are the ones I've seen the most. I've heard Blightfall takes 200+ hours, b
 
 ---
 
-## 🏆 Expert Packs (Kitchen-sink, but with quests, custom progression and still tech-focused)
+### 🏆 Expert Packs (Kitchen-sink, but with quests, custom progression and still tech-focused)
 
 | Modpack | Version | Playtime | Description |
 |---------|---------|----------|-------------|
@@ -62,7 +61,7 @@ These are the ones I've seen the most. I've heard Blightfall takes 200+ hours, b
 
 ---
 
-## ⚙️ GregTech & Greg-Like Modpacks
+### ⚙️ GregTech & Greg-Like Modpacks
 
 | Modpack | Version | Playtime | Notes |
 |---------|---------|----------|-------|
@@ -81,5 +80,4 @@ These are the ones I've seen the most. I've heard Blightfall takes 200+ hours, b
 
 - **Missing playtime estimates** - The main reason I made this
 - More modpack recommendations for any category
-
 - Corrections or better descriptions to anything I got wrong
